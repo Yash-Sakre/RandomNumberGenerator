@@ -1,0 +1,4 @@
+#Program to Print Random Number 
+import random 
+n=int(input("Enter the value of n :"))
+print(random.randint(0,n))
